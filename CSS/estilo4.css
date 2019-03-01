@@ -1,0 +1,8 @@
+p#pseudo{
+	color: yellow;
+}
+
+#pseudo:hover{
+	background-color: black;
+	color: pink;
+}

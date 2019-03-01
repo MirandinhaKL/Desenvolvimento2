@@ -1,0 +1,14 @@
+*{
+
+	color: orange;
+	border: dashed;
+}
+
+h1, h2{
+	color: brown;
+}
+
+#paragrafo{
+	color: black;
+	border: hidden;
+}
